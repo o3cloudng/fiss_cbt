@@ -1,0 +1,8 @@
+## Config
+/shared/config/tce_db_config.php
+
+BD: pneumat1_tcex735
+Pass: #1Million
+
+
+/shared/config/tce_paths.php
